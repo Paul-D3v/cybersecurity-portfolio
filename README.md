@@ -21,4 +21,4 @@ A full penetration test conducted against a deliberately vulnerable Linux VM.
 Kali Linux | nmap | Metasploit | John the Ripper | Splunk | dirb
 
 ## Connect
-[LinkedIn](linkedin,com/in/paul-umeh)
+[LinkedIn](linkedin.com/in/paul-umeh)
